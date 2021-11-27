@@ -1,0 +1,7 @@
+#ifndef CONFIGURATION_H
+#define CONFIGURATION_H
+#define LOGIN 1
+#define REGISTER 2
+#define SECRETCHAT 3
+#define CHATMESSAGE 4
+#endif // CONFIGURATION_H
